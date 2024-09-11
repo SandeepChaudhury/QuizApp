@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project on MCQ quiz.
+A Short Flutter project on Quick MCQ Quiz.
 
 
 ## For this project I have designed 
